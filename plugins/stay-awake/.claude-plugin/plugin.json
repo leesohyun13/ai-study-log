@@ -1,0 +1,9 @@
+{
+  "name": "stay-awake",
+  "version": "1.0.0",
+  "description": "Claude Code가 작업하는 동안 macOS sleep을 방지하고, 사용자 입력 대기 시 자동 pause (caffeinate 기반)",
+  "author": {
+    "name": "ai-study-log"
+  },
+  "keywords": ["macos", "caffeinate", "sleep", "hooks", "automation"]
+}
